@@ -18,6 +18,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
+    //ndgkjjkjhjkjk kjnkjgnkjjnkjtrn
     // 1. declearing all views
     private EditText editTextEmail,editTextPassword;
     private Button buttonSignIn;
